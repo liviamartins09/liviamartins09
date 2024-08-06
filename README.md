@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**liviamartins09/liviamartins09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Lívia Martins 
 
-Here are some ideas to get you started:
+- Eu estou estudando na [Alura](https://www.alura.com.br) 
+- Estou me desenvolvendo na línguagem JavaScript
+- Ultilizo este espaço para minha organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo 📫
+
+- martinsalvesliviavitoria@gmail.com
+ 
+- @livysz0
+
+
+![image](https://github.com/user-attachments/assets/4cc25f2e-b230-4783-947c-92fefcc45c9c)
